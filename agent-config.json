@@ -1,0 +1,27 @@
+{
+  "agentName": "RugRadar",
+  "description": "AI agent that detects potential crypto rug pulls using Binance Web3 data.",
+  "version": "1.0.0",
+
+  "skills": [
+    "query-token-audit",
+    "query-token-info",
+    "trading-signal",
+    "crypto-market-rank",
+    "query-address-info"
+  ],
+
+  "engine": "api/rugradar-engine.js",
+
+  "input": {
+    "tokenAddress": "string",
+    "creatorWallet": "string",
+    "tokenSymbol": "string"
+  },
+
+  "output": {
+    "riskScore": "number",
+    "riskLevel": "Low | Medium | High",
+    "analysisReport": "object"
+  }
+}
