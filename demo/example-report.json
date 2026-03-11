@@ -1,0 +1,37 @@
+{
+  "token": "ExampleToken",
+  "contractAddress": "0x123...abc",
+  "riskScore": 72,
+  "riskLevel": "High",
+
+  "signals": {
+    "contractAudit": {
+      "honeypot": false,
+      "hiddenTaxes": true,
+      "maliciousFunctions": false
+    },
+
+    "tokenStructure": {
+      "devWalletPercent": 28,
+      "smartMoneyHolding": 3.4,
+      "liquidity": "Low"
+    },
+
+    "tradingSignal": {
+      "smartMoney": "EXIT",
+      "marketBehavior": "abnormal selling pressure"
+    },
+
+    "marketMomentum": {
+      "socialTrend": "DOWN",
+      "communityGrowth": "declining"
+    },
+
+    "creatorWallet": {
+      "recentSellActivity": true,
+      "tokensSold": "42%"
+    }
+  },
+
+  "summary": "High rug risk detected. Developer wallets are reducing holdings while social momentum declines."
+}
