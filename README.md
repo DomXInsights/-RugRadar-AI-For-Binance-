@@ -292,3 +292,28 @@ And returns a final risk score with supporting evidence.
 
 RugRadar is an analytical tool designed to help traders detect suspicious patterns.  
 It does **not** provide financial advice. Always DYOR.
+---
+
+## ⚠️ Demo Data & Attribution Disclaimer
+
+The token names, wallet addresses, numerical values, and analytical results shown in this repository are **demonstration examples only** created to illustrate how the RugRadar analysis pipeline works.
+
+They **do not represent real investigations, real projects, or actual trading signals**.  
+The purpose of this repository is to showcase the **architecture, methodology, and capabilities** of the RugRadar on-chain analysis agent.
+
+Nothing in this repository should be interpreted as **financial advice, investment recommendation, or real token evaluation**.
+
+---
+
+### Author & Original Submission
+
+This project is originally created and submitted by:
+
+**Binance Square Author:** Dom X Insights  
+**Binance UID:** 893880105
+
+The associated article explaining this project is published on **Binance Square** under the above profile.
+
+If copies or derivatives of this repository appear elsewhere without proper attribution, this Binance Square publication serves as the **original authorship reference**.
+
+---
