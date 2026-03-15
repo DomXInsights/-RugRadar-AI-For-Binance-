@@ -186,7 +186,7 @@ After all five steps are completed, RugRadar combines the results into one final
 
 **Final demo screenshot**
 
-![Final RugRadar Risk Report](screenshots/step6 -final-risk-report.png)
+![Final RugRadar Risk Report](screenshots/step6-final-risk-report.png)
 
 ---
 
