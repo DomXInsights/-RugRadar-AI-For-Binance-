@@ -8,7 +8,7 @@
 
 > Detect insider dumping before retail becomes exit liquidity.
 
-> Detect insider dumping before retail becomes exit liquidity.
+
 
 RugRadar is an AI-powered on-chain intelligence system built on Binance Web3 data that detects whether a token’s project team may be quietly distributing or exiting while retail investors are still buying.
 
