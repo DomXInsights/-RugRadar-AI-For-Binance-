@@ -1,4 +1,12 @@
-# RugRadar — Binance Web3 Rug Detection Agent
+# 🦞 RugRadar — Binance Web3 Rug Detection Agent
+
+![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat-square)
+![Web3 API](https://img.shields.io/badge/Web3%20API-F3BA2F?style=flat-square)
+![Chain BSC](https://img.shields.io/badge/Chain-BSC-3b82f6?style=flat-square)
+![License MIT](https://img.shields.io/badge/License-MIT-84cc16?style=flat-square)
+![Status Demo Ready](https://img.shields.io/badge/Status-Demo%20Ready-22c55e?style=flat-square)
+
+> Detect insider dumping before retail becomes exit liquidity.
 
 > Detect insider dumping before retail becomes exit liquidity.
 
